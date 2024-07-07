@@ -27,7 +27,7 @@
 [<img align="left" alt="KiraSeggerty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KiraSeggerty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/kiraseggerty
+[youtube]: https://www.youtube.com/c/kiraseggerty
+[instagram]: https://www.instagram.com/kiraseggerty/
+[linkedin]: https://linkedin.com/in/kseggerty
