@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kira! <br/><a href="https://github.com/kseggerty">My GitHub Profile</a>, <a href="www.linkedin.com/in/kira-seggerty">Mechanical Engineer</a>
+<h1>Hello, I'm Kira! <br/><a href="https://github.com/kseggerty">My GitHub Profile</a>, <a href="https://www.linkedin.com/in/kira-seggerty">Mechanical Engineer</a>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
