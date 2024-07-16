@@ -1,24 +1,24 @@
 <h1>Hello, I'm Kira (she/her/hers)! <br/><a href="https://github.com/kseggerty">My GitHub Profile</a>, <a href="https://www.linkedin.com/in/kira-seggerty">Mechanical Engineer</a>, <a href="https://kazoo-porpoise-j245.squarespace.com">Doodlist</a>
 
-<h2>Personal Projects:</h2>
+  <h2>Personal Projects:</h2>
 
 - <b>Remote Control Speed Boat</b>
-  - [CAD Design for RC Speed Boat](https://github.com/[insert valid link])
+  - [CAD Design for RC Speed Boat](https://github.com)
 - <b>Solar Panel Tracker</b>
-  - [Rechargable Solar Tracker (Adafruit & ESP 32](https://github.com/[insert valid link]) <b><i>(video media)</b></i>
+  - [Rechargable Solar Tracker (Adafruit & ESP 32](https://github.com) <b><i>(video media)</b></i>
 
 <h2>Written Design Reports:</h2>
   
 - <b>Robot Dog Designs</b>
-  - [Laelaps 1](https://github.com/[insert valid link])
-  - [Laelaps 2](https://github.com/[insert valid link])
-  - [Laelaps 3](https://github.com/[insert valid link])
+  - [Laelaps 1](https://github.com)
+  - [Laelaps 2](https://github.com)
+  - [Laelaps 3](https://github.com)
 - <b>Vertical Spinning Battle Bot</b>
-  - [Battle Bots](https://github.com/[insert valid link])
+  - [Battle Bots](https://github.com)
 - <b>Remote Control Speed Boat</b>
-  - [RC Boat Design](https://github.com/joshmadakor1/[insert valid link])
+  - [RC Boat Design](https://github.com)
   - - <b>Solar Panel Tracker</b>
-  - [Rechargable Solar Tracker (Adafruit & ESP 32](https://github.com/[insert valid link])
+  - [Rechargable Solar Tracker (Adafruit & ESP 32](https://github.com)
 
 <h2> Connect with Me:</h2>
 
