@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kira (she/her/hers)! <br/><a href="https://github.com/kseggerty">My GitHub Profile</a>, <a href="https://www.linkedin.com/in/kira-seggerty">Mechanical Engineer</a>
+<h1>Hello, I'm Kira (she/her/hers)! <br/><a href="https://github.com/kseggerty">My GitHub Profile</a>, <a href="https://www.linkedin.com/in/kira-seggerty">Mechanical Engineer</a>, <a href="https://kazoo-porpoise-j245.squarespace.com">Doodlist</a>
 
 <h2>Personal Projects:</h2>
 
